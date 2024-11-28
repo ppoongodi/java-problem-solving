@@ -1,0 +1,15 @@
+package questionset;
+
+public class ProblemSolvingSetOne {
+	
+	/* Reverse a string preserving space position
+	 * Input - I Am Not String
+	 * Output - g ni rtS toNMAI
+	 */
+	public void stringReversePreserveSpace(String input)
+	{
+		StringBuilder br= new StringBuilder(input);
+		String output = br.reverse().toString();
+	}
+	
+}

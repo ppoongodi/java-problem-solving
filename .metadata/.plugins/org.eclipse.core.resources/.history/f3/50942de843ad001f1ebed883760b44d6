@@ -1,0 +1,10 @@
+package questionset;
+
+public class ProblemSolvingSetOne {
+	
+	public void FirstProblem()
+	{
+		System.out.println("First");
+	}
+	
+}

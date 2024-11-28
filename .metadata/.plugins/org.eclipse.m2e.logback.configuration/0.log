@@ -1,0 +1,65 @@
+2024-11-28 10:12:17,640 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-11-28 10:12:19,041 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2024-11-28 10:12:19,242 [Worker-7: Executing the early startup extensions] INFO  c.b.BrowserStackPluginActivator - Starting BrowserStack Plugin...
+2024-11-28 10:13:27,926 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+2024-11-28 10:13:27,930 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : false null
+2024-11-28 10:13:27,936 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+2024-11-28 10:13:27,938 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false null
+2024-11-28 10:14:12,465 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+2024-11-28 10:14:12,468 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : false null
+2024-11-28 10:14:12,473 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+2024-11-28 10:14:12,476 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false null
+2024-11-28 10:15:59,070 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+2024-11-28 10:15:59,074 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : false null
+2024-11-28 10:15:59,082 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+2024-11-28 10:15:59,086 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false null
+2024-11-28 10:18:15,604 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+2024-11-28 10:18:15,605 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+2024-11-28 10:18:15,612 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/java8-practice
+2024-11-28 10:18:15,614 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+2024-11-28 10:18:15,615 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+2024-11-28 10:18:15,618 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/java8-practice
+2024-11-28 10:18:27,425 [Worker-8: Launching mainClass] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.lang.NullPointerException
+2024-11-28 10:32:37,909 [Worker-20: Launching mainClass] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.lang.NullPointerException
+2024-11-28 10:32:37,920 [Worker-20: Launching mainClass] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+2024-11-28 10:33:56,789 [Worker-22: Launching mainClass] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.lang.NullPointerException
+2024-11-28 10:33:56,799 [Worker-22: Launching mainClass] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+2024-11-28 10:34:34,786 [Worker-6: Launching mainClass] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.lang.NullPointerException
+2024-11-28 10:34:34,796 [Worker-6: Launching mainClass] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+2024-11-28 10:37:21,498 [Worker-6: Launching mainClass] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.lang.NullPointerException
+2024-11-28 10:37:21,509 [Worker-6: Launching mainClass] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+2024-11-28 10:37:30,948 [Worker-22: Launching mainClass] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.lang.NullPointerException
+2024-11-28 10:37:30,951 [Worker-22: Launching mainClass] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+2024-11-28 10:37:31,156 [Worker-22: Launching mainClass] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+2024-11-28 10:37:31,158 [Worker-22: Launching mainClass] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.lang.NullPointerException
+2024-11-28 10:38:43,257 [Worker-24: Launching mainClass] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.lang.NullPointerException
+2024-11-28 10:38:43,267 [Worker-24: Launching mainClass] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+2024-11-28 10:40:09,564 [Worker-21: Launching mainClass] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.lang.NullPointerException
+2024-11-28 10:40:09,571 [Worker-21: Launching mainClass] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+2024-11-28 10:51:56,281 [Worker-28: Launching mainClass] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.lang.NullPointerException
+2024-11-28 10:52:15,139 [Worker-27: Launching mainClass] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.lang.NullPointerException
+2024-11-28 10:52:15,153 [Worker-27: Launching mainClass] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+2024-11-28 10:52:34,861 [Worker-26: Launching mainClass] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.lang.NullPointerException
+2024-11-28 10:52:34,876 [Worker-26: Launching mainClass] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+2024-11-28 10:53:12,905 [Worker-26: Launching mainClass] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.lang.NullPointerException
+2024-11-28 10:53:12,925 [Worker-26: Launching mainClass] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+2024-11-28 10:55:03,417 [Worker-27: Launching mainClass] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.lang.NullPointerException
+2024-11-28 10:55:03,433 [Worker-27: Launching mainClass] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+2024-11-28 10:55:28,984 [Worker-24: Launching mainClass] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.lang.NullPointerException
+2024-11-28 10:55:29,000 [Worker-24: Launching mainClass] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+2024-11-28 10:56:13,845 [Worker-29: Launching mainClass] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.lang.NullPointerException
+2024-11-28 10:56:13,862 [Worker-29: Launching mainClass] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+2024-11-28 10:56:39,719 [Worker-29: Launching mainClass] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.lang.NullPointerException
+2024-11-28 10:56:39,738 [Worker-29: Launching mainClass] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+2024-11-28 10:57:48,641 [Worker-25: Launching mainClass] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.lang.NullPointerException
+2024-11-28 10:57:48,663 [Worker-25: Launching mainClass] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+2024-11-28 10:58:54,013 [Worker-28: Launching mainClass] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.lang.NullPointerException
+2024-11-28 10:58:54,028 [Worker-28: Launching mainClass] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+2024-11-28 11:00:38,781 [Worker-29: Launching mainClass] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.lang.NullPointerException
+2024-11-28 11:00:38,801 [Worker-29: Launching mainClass] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+2024-11-28 11:01:20,362 [Worker-28: Launching mainClass] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.lang.NullPointerException
+2024-11-28 11:01:20,376 [Worker-28: Launching mainClass] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+2024-11-28 11:02:16,574 [Worker-26: Launching mainClass] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.lang.NullPointerException
+2024-11-28 11:02:16,588 [Worker-26: Launching mainClass] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+2024-11-28 11:06:07,633 [Worker-26: Launching mainClass] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.lang.NullPointerException
+2024-11-28 11:06:07,649 [Worker-26: Launching mainClass] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.

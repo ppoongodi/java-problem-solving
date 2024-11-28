@@ -1,0 +1,9 @@
+package questionset;
+
+public class mainClass {
+
+	public static void main(String[] args) {
+		ProblemSolvingSetOne obj = new ProblemSolvingSetOne();
+		obj.FirstProblem();
+	}
+}

@@ -1,0 +1,33 @@
+package questionset;
+
+public class ProblemSolvingSetOne {
+	
+	/* Reverse a string preserving space position
+	 * Input - I Am Not String
+	 * Output - g ni rtS toNMAI
+	 */
+	public void stringReversePreserveSpace(String input)
+	{
+		StringBuilder br= new StringBuilder(input);
+		String temp = br.reverse().toString();	
+		temp =temp.replace(" ", "");
+		System.out.println(temp);
+		String output="";
+		
+		for(int i=0; i< input.length();i++; )
+		{
+			if(input.charAt(i)== ' ')
+			{
+				output=output+" ";	
+				
+			}
+			else
+			{
+				output=output+temp.charAt(i);
+				
+			}
+		}
+		System.out.println(output);
+	}
+	
+}

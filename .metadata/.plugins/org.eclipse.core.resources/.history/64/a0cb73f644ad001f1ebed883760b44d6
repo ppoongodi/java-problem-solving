@@ -1,0 +1,14 @@
+package questionset;
+
+public class ProblemSolvingSetOne {
+	
+	/* Reverse a string preserving space position
+	 * Input - I Am Not String
+	 * Output - g ni rtS toNMAI
+	 */
+	public void stringReversePreserveSpace()
+	{
+		System.out.println("First");
+	}
+	
+}
